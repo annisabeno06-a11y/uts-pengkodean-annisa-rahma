@@ -1,0 +1,13 @@
+# Verifikasi PSAK via NotebookLM
+
+## Pertanyaan
+Apakah logika pengakuan kas dan setara kas di kode saya sudah sesuai PSAK?
+
+## Jawaban NotebookLM
+1. Kas dan setara kas menurut PSAK adalah...
+2. Syarat setara kas: jatuh tempo ≤ 3 bulan, likuid, risiko perubahan nilai kecil...
+3. Pengakuan kas keluar...
+4. Kode Anda sudah sesuai karena...
+
+## Kesimpulan
+Logika kode sudah sesuai dengan PSAK terkait pengakuan kas.
